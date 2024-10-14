@@ -1,2 +1,0 @@
-print("pacote teste")
-return {}

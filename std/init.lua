@@ -300,5 +300,5 @@ return setmetatable (M, {
 		rawset (self, name, t)
 		return t
 	      end
-	    end,
+   end
 })
